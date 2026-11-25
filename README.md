@@ -8,6 +8,8 @@ Sum up the world's news of Wednesday 25 November 2026 in one image. The entry is
 
 Lead story: Ukraine confirms a drone strike on a Russian ship in the Gulf of Finland. Also in the image: the Houthi drone hit on Riyadh's tallest tower (11 wounded), Trump awarding Rudy Giuliani the Medal of Freedom, Huawei found guilty of stealing trade secrets, NATO sending early-warning jets to Poland, the CIA and ODNI cyber breach, and three oil tankers reportedly hit by mines in the Strait of Hormuz — plus Sarkozy's corruption case going to trial, a 5.6 quake in Nepal, and England's T20I win over Australia.
 
+Pool: $100 in USDC — 1st place $20, top 50 entries share the pool.
+
 ## Run it
 
 ```sh

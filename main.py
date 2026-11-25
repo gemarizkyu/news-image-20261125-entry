@@ -25,6 +25,7 @@ SOURCE = HERE / "news.png"
 def main() -> None:
     out_dir = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))
     out_dir.mkdir(parents=True, exist_ok=True)
+    # Output is always entry.png, exactly as the brief requires.
     target = out_dir / "entry.png"
     shutil.copyfile(SOURCE, target)
     size = target.stat().st_size
